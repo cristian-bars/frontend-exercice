@@ -34,7 +34,7 @@ content {
     width: 100%;
 }
 
-.div-content {
+.div-content-orange {
     background-color: #FF9C00;
 }
 
@@ -56,4 +56,38 @@ content {
     color: #C61B09;
     padding: 15px;
     font-family: Josefin Sans;
+}
+
+.content_img_box {
+    margin: 15px;
+    padding-top: 50px;
+}
+
+.div-content {
+    margin: 15px;
+}
+
+.text-title {
+    font-size: 28px;
+    line-height: 38px;
+    padding: 32px 0;
+}
+
+.text-content {
+    margin: 3px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.news-content {
+    padding: 40px 0;
+}
+
+.news {
+    border: 1px solid #C61B09;
+    font-size: 16px;
+    line-height: 24px;
+    color: #C61B09;
+    padding: 7px;
+    margin-bottom: 20px;
 }
