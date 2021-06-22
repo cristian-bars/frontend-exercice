@@ -91,3 +91,26 @@ content {
     padding: 7px;
     margin-bottom: 20px;
 }
+
+.rrss-title {
+    font-size: 34px;
+    line-height: 38px;
+    padding: 60px 15px 15px 15px;
+}
+
+.rrss-content {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 15px 15px 0 15px;
+    padding-bottom: 60px;
+}
+
+.rrss-icons {
+    background-color: #212329;
+    height: 112px;
+}
+
+.rrss-content_img {
+    width: auto;
+    height: 30px;
+}
