@@ -140,3 +140,53 @@ content {
 .about-yellow-car {
     width: 90%;
 }
+
+.about-car {
+    width: 100%;
+    position: relative;
+    bottom: 50px;
+}
+
+.about-video {
+    position: absolute;
+    width: 100%;
+}
+
+.play-button {
+    background-color: #FF9C00;
+    width: 82px;
+    height: 82px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 80px;
+    z-index: 1;
+    left: 74%;
+}
+
+.about-button {
+    justify-content: center;
+    align-items: center;
+}
+
+.video-content {
+    background-color: #FF9C00;
+    width: 90%;
+    margin: 15px;
+    position: relative;
+    bottom: 105px;
+    padding: 10px 15px;
+}
+
+.title-video {
+    font-size: 34px;
+    line-height: 39px;
+    margin: 20px;
+}
+
+.link-video {
+    margin: 20px;
+    color: #C61B09;
+    font-family: Josefin Sans;
+    font-weight: bold;
+}
