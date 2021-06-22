@@ -148,7 +148,6 @@ content {
 }
 
 .about-video {
-    position: absolute;
     width: 100%;
 }
 
@@ -189,4 +188,29 @@ content {
     color: #C61B09;
     font-family: Josefin Sans;
     font-weight: bold;
+}
+
+.carrousel-img {
+    width: 225px;
+}
+
+.carrousel-list {
+    padding: 20px;
+}
+
+.carrousel-content {
+    font-family: Theinhardt;
+    width: 225px;
+    background-color: #FF9C00;
+    padding: 20px;
+}
+
+.carrousel-title {
+    font-size: 20px;
+    color: #110C16;
+}
+
+.carrousel-information {
+    font-size: 14px;
+    color: #fff;
 }
