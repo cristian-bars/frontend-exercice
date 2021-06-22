@@ -214,3 +214,13 @@ content {
     font-size: 14px;
     color: #fff;
 }
+
+.link-button {
+    font-family: Theinhardt;
+    font-size: 16px;
+    color: #fff;
+    width: 90%;
+    background-color: #FF9C00;
+    height: 30px;
+    margin: 0 auto;
+}
