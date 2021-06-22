@@ -34,7 +34,7 @@ content {
     width: 100%;
 }
 
-.div-content-orange {
+.div-content-orange, .div-content-orange-rrss {
     background-color: #FF9C00;
 }
 
@@ -255,5 +255,111 @@ footer {
     .header_menu {
         position: relative;
         right: 10%;
+    }
+    
+    .content_img {
+        height: 700px;
+        object-fit: cover;
+    }
+    
+    .div-content-orange {
+        max-width: 700px;
+        max-height: 488px;
+        width: auto;
+        position: absolute;
+        bottom: -29%;
+        left: 49%;
+    }
+    
+    .text-link {
+        padding-bottom: 60px;
+    }
+    
+    .content_img_box {
+        padding-left: 15%;
+    }
+    
+    .div-content {
+        width: 32%;
+        position: absolute;
+        top: 129%;
+        left: 49%;
+    }
+    
+    .div-content-orange-rrss {
+        width: 50%;
+        padding: 20px 50px;
+        position: relative;
+        top: 165px;
+        left: 16%;
+        z-index: -1;
+    }
+    
+    .rrss-icons {
+        width: 37%;
+        position: relative;
+        left: 50%;
+        top: 111px;
+    }
+    
+    .about-us {
+        margin: 0 auto;
+        padding: 15px;
+        padding-top: 140px;
+        width: 68%;
+    }
+    
+    .about-spectators {
+        right: 15%;
+        max-width: 414px;
+    }
+    
+    .about-car {
+        height: 500px;
+        object-fit: cover;
+    }
+    
+    .play-button {
+        top: 426px;
+        left: 3%;
+    }
+    
+    .video-content {
+        width: 70%;
+        bottom: 142px;
+        left: 20%;
+    }
+    
+    .carrousel-img {
+        width: 485px;
+        height: 200px;
+        object-fit: cover;
+    }
+    
+    .carrousel-content {
+        width: 485px;
+    }
+    
+    .link-button {
+        margin: 20px;
+        width: 10%;
+    }
+    
+    .footer-title {
+        width: 50%;
+    }
+    
+    .footer-rrss {
+        width: 50%;
+        position: relative;
+        left: 50%;
+    }
+    
+    .footer-links {
+        display: flex;
+    }
+    
+    .link {
+        padding: 0 20px;
     }
 }
